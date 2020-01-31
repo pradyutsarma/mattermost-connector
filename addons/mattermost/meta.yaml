@@ -1,0 +1,5 @@
+name: mattermost-connector
+version: 0.0.1
+id: 27df942f-29d4-4477-a851-3ff36df6a532
+description: Mattermost Connector to demonstrate the installation and consumption of kyma addons
+displayName: "Mattermost Connector"
